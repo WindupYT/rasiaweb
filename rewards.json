@@ -1,0 +1,58 @@
+[
+    {
+        "index": 0,
+        "name": "Name",
+        "time": 300,
+        "reward": "50 Coins",
+        "command": "give %player% diamond 1",
+        "color": "danger"
+    },{
+        "index": 1,
+        "name": "Name",
+        "time": 1250,
+        "reward": "250 Coins",
+        "command": "give %player% diamond 1",
+        "color": "warning"
+    },{
+        "index": 2,
+        "name": "Name",
+        "time": 1500,
+        "reward": "300 Coins",
+        "command": "give %player% diamond 1",
+        "color": "info"
+    },{
+        "index": 3,
+        "name": "Name",
+        "time": 2250,
+        "reward": "450 Coins",
+        "command": "give %player% diamond 1",
+        "color": "success"
+    },{
+        "index": 4,
+        "name": "Name",
+        "time": 2500,
+        "reward": "500 Coins",
+        "command": "give %player% diamond 1",
+        "color": "danger"
+    },{
+        "index": 5,
+        "name": "Name",
+        "time": 3250,
+        "reward": "650 Coins",
+        "command": "give %player% diamond 1",
+        "color": "primary"
+    },{
+        "index": 6,
+        "name": "Name",
+        "time": 5000,
+        "reward": "1000 Coins",
+        "command": "give %player% diamond 1"
+    },{
+        "index": 7,
+        "name": "Name",
+        "time": 172800,
+        "reward": "Minecraft Premium Account",
+        "command": "give %player% diamond 1",
+        "color": "warning"
+    }
+]
